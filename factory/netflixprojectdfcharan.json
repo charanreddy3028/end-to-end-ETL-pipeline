@@ -1,0 +1,9 @@
+{
+	"name": "netflixprojectdfcharan",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "84092226-668a-44d3-98eb-9bd9f5c25273",
+		"tenantId": "c9ce3ad0-0290-42dd-ace9-33bea79d8c63"
+	}
+}
